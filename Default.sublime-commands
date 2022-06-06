@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "JiraOpen: Open Issue",
+        "command": "jira_open_issue"
+    },
+    {
+        "caption": "JiraOpen: Open Board",
+        "command": "jira_open_board"
+    }
+]
+
