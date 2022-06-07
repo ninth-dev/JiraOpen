@@ -6,6 +6,14 @@
     {
         "caption": "JiraOpen: Open Board",
         "command": "jira_open_board"
-    }
+    },
+    {
+        "caption": "Preferences: JiraOpen Settings",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/JiraOpen/JiraOpen.sublime-settings",
+            "default": "{\n\t$0\n}"
+        }
+    },
 ]
 
